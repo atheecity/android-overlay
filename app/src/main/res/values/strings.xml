@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeadElement</string>
+    <string name="activate">Activer</string>
+    <string name="deactivate">Désactiver</string>
+    <string name="activate_overlay">Activer la superposition sur les autres applications</string>
+    <string name="deactivate_overlay">Désactiver la superposition sur les autres applications</string>
+    <string name="quit_app">Quitter l\'application pour faire apparaître le widget</string>
+</resources>
